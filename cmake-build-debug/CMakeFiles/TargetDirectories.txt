@@ -1,0 +1,3 @@
+/home/charles/Desktop/weiboz_project1/cmake-build-debug/CMakeFiles/weiboz_project1.dir
+/home/charles/Desktop/weiboz_project1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/charles/Desktop/weiboz_project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
